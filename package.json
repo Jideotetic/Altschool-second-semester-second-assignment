@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-error-boundary": "3.1.4",
+    "react-router-dom": "6.4.2",
+    "react-scripts": "^4.0.0"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "name": "nh8m08",
+  "description": null,
+  "version": "0.0.413",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
